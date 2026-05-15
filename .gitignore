@@ -1,0 +1,12 @@
+
+# Node.js
+node_modules/
+
+# Build output
+dist/
+
+# Editor files
+.vscode/
+
+# Other temporary files
+eclipse-dates.txt
